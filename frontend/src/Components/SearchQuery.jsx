@@ -33,7 +33,7 @@ const SearchQuery = ({ onSend }) => {
                     onKeyPress={(e) => e.key === 'Enter' && handleSend()}
                     placeholder="Type your message..."
                 />
-                <Button colorScheme="blue" onClick={handleSend}>
+                <Button colorScheme="teal" onClick={handleSend}>
                     <IoSend/>
                     {/* {isLoading ? <BeatLoader size={8} color="white" /> : 'Send'} */}
                 </Button>
