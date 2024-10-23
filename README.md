@@ -1,2 +1,2 @@
 # Student_assistant_bot_using_AutoGen
-This project is created using AutoGen framework
+A MESSAGE FROM THE DEVELOPER FOR THE FUTURE DEV WORKING ON THIS PROJECT
